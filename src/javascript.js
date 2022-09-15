@@ -4,7 +4,12 @@ import React from 'react';
 const javascript = () => {
   return (
     <View>
-      <Text>javascript</Text>
+      <Text
+        style={{
+          color: '#000',
+        }}>
+        javascript
+      </Text>
     </View>
   );
 };
