@@ -10,12 +10,6 @@ const javascript = () => {
         }}>
         javascript
       </Text>
-      <Text
-        style={{
-          color: 'red',
-        }}>
-        JSON
-      </Text>
     </View>
   );
 };
